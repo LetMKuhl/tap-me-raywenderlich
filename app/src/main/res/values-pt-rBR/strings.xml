@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Time Fighter</string>
+    <string name="your_score">Pontuação: %1$d</string>
+    <string name="time_left">Tempo Restante: %1$d</string>
+    <string name="tap_me_buttom">Me toque!</string>
+    <string name="game_over_message">Acabou o tempo! Sua pontuação foi: %1$d</string>
+</resources>
